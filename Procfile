@@ -1,0 +1,1 @@
+web: gunicorn si_rumah_sakit.wsgi
